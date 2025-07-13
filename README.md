@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/version-v42-blue.svg" alt="Version"></a>
+    <a href="#"><img src="https://img.shields.io/badge/version-v1-blue.svg" alt="Version"></a>
     <a href="#"><img src="https://img.shields.io/badge/platform-Kali_Linux-lightgrey.svg" alt="Platform"></a>
     <a href="#"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License"></a>
     <a href="#"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
