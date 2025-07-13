@@ -138,19 +138,6 @@ The script handles all dependencies, database setup, Python environment creation
     sudo /opt/reconforge/stop.sh
     ```
     
-## Screenshots
-
-<p align="center">
-  <strong>Main Dashboard</strong><br>
-  <em>[A screenshot showing the main dashboard with a list of targets, their stats (subdomains, vulns), and scan status badges.]</em>
-</p>
-<p align="center">
-  <strong>Target Details Page</strong><br>
-  <em>[A screenshot of the details page showing a table of Nuclei vulnerabilities with different severities.]</em>
-</p>
-<p align="center">
-  <strong>AI-Powered Analysis</strong><br>
-  <em>[A close-up screenshot showing an expanded AI analysis section, with markdown headers for Explanation, Impact, Remediation, and a code block containing a curl PoC.]</em>
 p>
 
 ## Ethical Disclaimer
